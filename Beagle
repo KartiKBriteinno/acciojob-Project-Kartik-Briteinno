@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beagle Project</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body style="margin:10px;">
+    <!-- Top Div Section -->
+    <div class="top-div" style="border:solid black 2px;padding:10px;">
+        <h1>The Beagle Blog</h1>
+        <p>The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound. The beagle was developed primarily for hunting hare, known as beagling. Possessing a great sense of smell and superior tracking instincts, the beagle is the primary breed used as a detection dog for prohibited agricultural imports and foodstuffs in quarantine around the world. The beagle is a popular pet due to its size, good temper, and a lack of inherited health problems. </p>
+        <a href="https://en.wikipedia.org/wiki/Beagle" target="_blank" rel="noopener noreferrer">Read More</a>
+        <br>
+    </div>
+
+    <!-- Image Section -->
+    <div class="image-section">
+    <p>Images</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beagle_600.jpg/220px-Beagle_600.jpg" alt="Beagle Dog">
+    </div>
+<a href="https://www.google.com/search?q=beagle&rlz=1C5CHFA_enUS944US945&sxsrf=ALiCzsYi_xLzuX5-mgRt-U2UMiiEwhaCTA:1672839794160&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8ntha78AhVnDbcAHX7UCYYQ_AUoAXoECAEQAw&biw=1629&bih=894&dpr=2.2" target="_blank" rel="noopener noreferrer">More Images</a>
+    <!-- Trivia Section -->
+    <div class="trivia-section">
+        <h2>Trivia</h2>
+        <ol>
+            <li><strong>Origin:</strong> Beagles originated in England as scent hounds.</li>
+            <li><strong>Size:</strong> Beagles are a small to medium-sized breed.</li>
+            <li><strong>Temperament:</strong> They are friendly, curious, and great with families.</li>
+        </ol>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
